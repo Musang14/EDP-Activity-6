@@ -1,0 +1,12 @@
+C:\Users\User01\source\repos\activity6\bin\Debug\activity6.exe.config
+C:\Users\User01\source\repos\activity6\bin\Debug\activity6.exe
+C:\Users\User01\source\repos\activity6\bin\Debug\activity6.pdb
+C:\Users\User01\source\repos\activity6\bin\Debug\activity6.xml
+C:\Users\User01\source\repos\activity6\obj\Debug\activity6.vbproj.AssemblyReference.cache
+C:\Users\User01\source\repos\activity6\obj\Debug\activity6.Form1.resources
+C:\Users\User01\source\repos\activity6\obj\Debug\activity6.Resources.resources
+C:\Users\User01\source\repos\activity6\obj\Debug\activity6.vbproj.GenerateResource.cache
+C:\Users\User01\source\repos\activity6\obj\Debug\activity6.vbproj.CoreCompileInputs.cache
+C:\Users\User01\source\repos\activity6\obj\Debug\activity6.exe
+C:\Users\User01\source\repos\activity6\obj\Debug\activity6.xml
+C:\Users\User01\source\repos\activity6\obj\Debug\activity6.pdb
